@@ -9,3 +9,4 @@ ToDo:
 * Detect hand gestures using OpenCV:
 	- [ ] Detect Left/Right arm and hadn gestures
 	- [ ] Implement on video
+ 	- [ ] Apply face blurrying 	
