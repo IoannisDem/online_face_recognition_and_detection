@@ -7,6 +7,6 @@ ToDo:
 	- [x] Apply incremental learning for new faces
 
 * Detect hand gestures using OpenCV:
-	- [ ] Detect Left/Right arm and hadn gestures
-	- [ ] Implement on video
+	- [x] Implement on video
+ 	- [ ] Combine MTCNN and KCF tracking 	
  	- [ ] Apply face blurrying 	
