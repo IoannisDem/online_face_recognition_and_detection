@@ -6,7 +6,9 @@ ToDo:
 	- [x] Load a pre-trained model
 	- [x] Apply incremental learning for new faces
 
-* Detect hand gestures using OpenCV:
-	- [x] Implement on video
- 	- [ ] Combine MTCNN and KCF tracking 	
- 	- [ ] Apply face blurrying 	
+* Face Tracking Pipeline:
+	- [x] Face Tracker
+ 	- [ ] Combine MTCNN and KCF tracking
+  		- [ ] Detect face using MTCNN and apply tracker
+    		- [ ] Leverage CV algorithms to fast compare frames and use MTCNN where appropriate (new person joining the frame) -> stress on retaining high FPS  	 	
+ 	
